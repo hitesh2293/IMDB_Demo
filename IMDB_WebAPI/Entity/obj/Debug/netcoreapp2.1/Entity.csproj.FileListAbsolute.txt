@@ -1,0 +1,9 @@
+D:\Project\IMDB_demo\IMDB_WebAPI\Entity\bin\Debug\netcoreapp2.1\Entity.deps.json
+D:\Project\IMDB_demo\IMDB_WebAPI\Entity\bin\Debug\netcoreapp2.1\Entity.dll
+D:\Project\IMDB_demo\IMDB_WebAPI\Entity\bin\Debug\netcoreapp2.1\Entity.pdb
+D:\Project\IMDB_demo\IMDB_WebAPI\Entity\obj\Debug\netcoreapp2.1\Entity.csproj.CoreCompileInputs.cache
+D:\Project\IMDB_demo\IMDB_WebAPI\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfoInputs.cache
+D:\Project\IMDB_demo\IMDB_WebAPI\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfo.cs
+D:\Project\IMDB_demo\IMDB_WebAPI\Entity\obj\Debug\netcoreapp2.1\Entity.dll
+D:\Project\IMDB_demo\IMDB_WebAPI\Entity\obj\Debug\netcoreapp2.1\Entity.pdb
+D:\Project\IMDB_demo\IMDB_WebAPI\Entity\obj\Debug\netcoreapp2.1\Entity.csprojAssemblyReference.cache

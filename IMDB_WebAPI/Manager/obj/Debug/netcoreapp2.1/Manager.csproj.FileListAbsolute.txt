@@ -1,0 +1,12 @@
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\bin\Debug\netcoreapp2.1\Manager.deps.json
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\bin\Debug\netcoreapp2.1\Manager.dll
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\bin\Debug\netcoreapp2.1\Manager.pdb
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\bin\Debug\netcoreapp2.1\Entity.dll
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\bin\Debug\netcoreapp2.1\Entity.pdb
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\obj\Debug\netcoreapp2.1\Manager.csprojAssemblyReference.cache
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\obj\Debug\netcoreapp2.1\Manager.csproj.CoreCompileInputs.cache
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\obj\Debug\netcoreapp2.1\Manager.AssemblyInfoInputs.cache
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\obj\Debug\netcoreapp2.1\Manager.AssemblyInfo.cs
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\obj\Debug\netcoreapp2.1\Manager.csproj.CopyComplete
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\obj\Debug\netcoreapp2.1\Manager.dll
+D:\Project\IMDB_demo\IMDB_WebAPI\Manager\obj\Debug\netcoreapp2.1\Manager.pdb
